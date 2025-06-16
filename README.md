@@ -1,6 +1,18 @@
 # 💫 About Me:
-👋 Hey there! <strong>I'm Haidar</strong>, a <strong>graphic designer</strong> from the beautiful island of Ternate, Indonesia. 🌴 I thrive on transforming ideas into eye-catching visuals—think bold graphics, sleek UI, and everything in between. ⚡️ But my creativity doesn't stop there! I'm also a budding web developer, weaving magic with HTML, CSS, and JavaScript. 💻 Currently diving deep into the world of full-stack development, with Python and Flask as my trusty sidekicks. Let's connect and create something amazing, whether it's pixel-perfect designs or dynamic web experiences! ✨
+## Hi there, I’m Haidar! 👋
 
+I’m a graphic designer turned full‑stack dev from Ternate, Indonesia 🌴—I transform wild ideas into bold visuals **and** dynamic web experiences.  
+
+- 🔭 Currently leveling up my backend chops with **Python**, **Flask**, and building real‑world APIs  
+- 👨‍💻 Comfortable in **HTML5**, **CSS3**, **JavaScript**, **PHP**, **Laravel**, **React**, plus databases (**MySQL**, **SQLite**, **MariaDB**)  
+- 🎨 Pixel‑perfect UI/UX in **Figma**, **Adobe XD**, **Illustrator**, **Photoshop**, & **Canva**  
+- 📂 Check out my pinned repos for 🔍 web‑scraping, 🖥️ clone‑projects, and a lightning‑fast URL shortener  
+- 🌱 Always exploring new tools and patterns—next up: containerizing apps with Docker and deploying on Kubernetes  
+- ⚡ Let’s collaborate on projects that need eye‑catching design and rock‑solid code!
+
+> “Design is not just what it looks like. Design is how it works.” – Steve Jobs
+
+Feel free to connect or shoot a PR—let’s build something awesome! 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/haidar038) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.haidar___30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haidar038) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17413658) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/haidar038) 
