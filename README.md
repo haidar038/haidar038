@@ -5,7 +5,7 @@ I’m a graphic designer turned full‑stack dev from Ternate, Indonesia 🌴—
 
 - 🔭 Currently leveling up my backend chops with **Python**, **Flask**, and building real‑world APIs  
 - 👨‍💻 Comfortable in **HTML5**, **CSS3**, **JavaScript**, **PHP**, **Laravel**, **React**, plus databases (**MySQL**, **SQLite**, **MariaDB**)  
-- 🎨 Pixel‑perfect UI/UX in **Figma**, **Adobe XD**, **Illustrator**, **Photoshop**, & **Canva**  
+- 🎨 Pixel‑perfect UI/UX in **Figma**, **Illustrator**, **Photoshop**, & **Canva**  
 - 📂 Check out my pinned repos for 🔍 web‑scraping, 🖥️ clone‑projects, and a lightning‑fast URL shortener  
 - 🌱 Always exploring new tools and patterns—next up: containerizing apps with Docker and deploying on Kubernetes  
 - ⚡ Let’s collaborate on projects that need eye‑catching design and rock‑solid code!
